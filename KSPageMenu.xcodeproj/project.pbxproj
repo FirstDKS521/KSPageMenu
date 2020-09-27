@@ -15,6 +15,19 @@
 		30883EE0250FB73D00DB0F7A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883EDF250FB73D00DB0F7A /* main.m */; };
 		30883EEA250FB73D00DB0F7A /* KSPageMenuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883EE9250FB73D00DB0F7A /* KSPageMenuTests.m */; };
 		30883EF5250FB73D00DB0F7A /* KSPageMenuUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883EF4250FB73D00DB0F7A /* KSPageMenuUITests.m */; };
+		30883F0F250FB89F00DB0F7A /* XLPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F03250FB89F00DB0F7A /* XLPageViewController.m */; };
+		30883F10250FB89F00DB0F7A /* XLPageSegmentedTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F04250FB89F00DB0F7A /* XLPageSegmentedTitleView.m */; };
+		30883F11250FB89F00DB0F7A /* XLPageBasicTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F05250FB89F00DB0F7A /* XLPageBasicTitleView.m */; };
+		30883F12250FB89F00DB0F7A /* XLPageViewControllerConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F06250FB89F00DB0F7A /* XLPageViewControllerConfig.m */; };
+		30883F13250FB89F00DB0F7A /* XLPageTitleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F0C250FB89F00DB0F7A /* XLPageTitleCell.m */; };
+		30883F14250FB89F00DB0F7A /* XLPageViewControllerUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F0D250FB89F00DB0F7A /* XLPageViewControllerUtil.m */; };
+		30883F17250FB98700DB0F7A /* KSHomeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F16250FB98700DB0F7A /* KSHomeController.m */; };
+		30883F1B250FBF9C00DB0F7A /* KSPageMenuConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F1A250FBF9C00DB0F7A /* KSPageMenuConfig.m */; };
+		30883F1E250FC26300DB0F7A /* KSPageBasicTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F1D250FC26300DB0F7A /* KSPageBasicTitleView.m */; };
+		30883F2125110E4300DB0F7A /* KSPageTitleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F2025110E4300DB0F7A /* KSPageTitleCell.m */; };
+		30883F242513A76A00DB0F7A /* KSPageMenuUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 30883F232513A76A00DB0F7A /* KSPageMenuUtil.m */; };
+		30E68EC52513B47100F5A7F9 /* KSPageSegmentedTitleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 30E68EC42513B47100F5A7F9 /* KSPageSegmentedTitleView.m */; };
+		30E68EC82518E55A00F5A7F9 /* KSPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 30E68EC72518E55A00F5A7F9 /* KSPageViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,32 @@
 		30883EF0250FB73D00DB0F7A /* KSPageMenuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KSPageMenuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		30883EF4250FB73D00DB0F7A /* KSPageMenuUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KSPageMenuUITests.m; sourceTree = "<group>"; };
 		30883EF6250FB73D00DB0F7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30883F03250FB89F00DB0F7A /* XLPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLPageViewController.m; sourceTree = "<group>"; };
+		30883F04250FB89F00DB0F7A /* XLPageSegmentedTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLPageSegmentedTitleView.m; sourceTree = "<group>"; };
+		30883F05250FB89F00DB0F7A /* XLPageBasicTitleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLPageBasicTitleView.m; sourceTree = "<group>"; };
+		30883F06250FB89F00DB0F7A /* XLPageViewControllerConfig.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLPageViewControllerConfig.m; sourceTree = "<group>"; };
+		30883F07250FB89F00DB0F7A /* XLPageViewControllerUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPageViewControllerUtil.h; sourceTree = "<group>"; };
+		30883F08250FB89F00DB0F7A /* XLPageTitleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPageTitleCell.h; sourceTree = "<group>"; };
+		30883F09250FB89F00DB0F7A /* XLPageSegmentedTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPageSegmentedTitleView.h; sourceTree = "<group>"; };
+		30883F0A250FB89F00DB0F7A /* XLPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPageViewController.h; sourceTree = "<group>"; };
+		30883F0B250FB89F00DB0F7A /* XLPageBasicTitleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPageBasicTitleView.h; sourceTree = "<group>"; };
+		30883F0C250FB89F00DB0F7A /* XLPageTitleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLPageTitleCell.m; sourceTree = "<group>"; };
+		30883F0D250FB89F00DB0F7A /* XLPageViewControllerUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XLPageViewControllerUtil.m; sourceTree = "<group>"; };
+		30883F0E250FB89F00DB0F7A /* XLPageViewControllerConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XLPageViewControllerConfig.h; sourceTree = "<group>"; };
+		30883F15250FB98700DB0F7A /* KSHomeController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KSHomeController.h; sourceTree = "<group>"; };
+		30883F16250FB98700DB0F7A /* KSHomeController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KSHomeController.m; sourceTree = "<group>"; };
+		30883F19250FBF9C00DB0F7A /* KSPageMenuConfig.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KSPageMenuConfig.h; sourceTree = "<group>"; };
+		30883F1A250FBF9C00DB0F7A /* KSPageMenuConfig.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KSPageMenuConfig.m; sourceTree = "<group>"; };
+		30883F1C250FC26300DB0F7A /* KSPageBasicTitleView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KSPageBasicTitleView.h; sourceTree = "<group>"; };
+		30883F1D250FC26300DB0F7A /* KSPageBasicTitleView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KSPageBasicTitleView.m; sourceTree = "<group>"; };
+		30883F1F25110E4300DB0F7A /* KSPageTitleCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KSPageTitleCell.h; sourceTree = "<group>"; };
+		30883F2025110E4300DB0F7A /* KSPageTitleCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KSPageTitleCell.m; sourceTree = "<group>"; };
+		30883F222513A76A00DB0F7A /* KSPageMenuUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KSPageMenuUtil.h; sourceTree = "<group>"; };
+		30883F232513A76A00DB0F7A /* KSPageMenuUtil.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KSPageMenuUtil.m; sourceTree = "<group>"; };
+		30E68EC32513B47100F5A7F9 /* KSPageSegmentedTitleView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KSPageSegmentedTitleView.h; sourceTree = "<group>"; };
+		30E68EC42513B47100F5A7F9 /* KSPageSegmentedTitleView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KSPageSegmentedTitleView.m; sourceTree = "<group>"; };
+		30E68EC62518E55A00F5A7F9 /* KSPageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KSPageViewController.h; sourceTree = "<group>"; };
+		30E68EC72518E55A00F5A7F9 /* KSPageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KSPageViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +140,14 @@
 		30883ECF250FB73B00DB0F7A /* KSPageMenu */ = {
 			isa = PBXGroup;
 			children = (
+				30883F18250FBF7B00DB0F7A /* KSPageMenu */,
+				30883F02250FB89F00DB0F7A /* XLPageViewController */,
 				30883ED0250FB73B00DB0F7A /* AppDelegate.h */,
 				30883ED1250FB73B00DB0F7A /* AppDelegate.m */,
 				30883ED3250FB73B00DB0F7A /* ViewController.h */,
 				30883ED4250FB73B00DB0F7A /* ViewController.m */,
+				30883F15250FB98700DB0F7A /* KSHomeController.h */,
+				30883F16250FB98700DB0F7A /* KSHomeController.m */,
 				30883ED6250FB73B00DB0F7A /* Main.storyboard */,
 				30883ED9250FB73D00DB0F7A /* Assets.xcassets */,
 				30883EDB250FB73D00DB0F7A /* LaunchScreen.storyboard */,
@@ -130,6 +173,44 @@
 				30883EF6250FB73D00DB0F7A /* Info.plist */,
 			);
 			path = KSPageMenuUITests;
+			sourceTree = "<group>";
+		};
+		30883F02250FB89F00DB0F7A /* XLPageViewController */ = {
+			isa = PBXGroup;
+			children = (
+				30883F0A250FB89F00DB0F7A /* XLPageViewController.h */,
+				30883F03250FB89F00DB0F7A /* XLPageViewController.m */,
+				30883F09250FB89F00DB0F7A /* XLPageSegmentedTitleView.h */,
+				30883F04250FB89F00DB0F7A /* XLPageSegmentedTitleView.m */,
+				30883F0B250FB89F00DB0F7A /* XLPageBasicTitleView.h */,
+				30883F05250FB89F00DB0F7A /* XLPageBasicTitleView.m */,
+				30883F08250FB89F00DB0F7A /* XLPageTitleCell.h */,
+				30883F0C250FB89F00DB0F7A /* XLPageTitleCell.m */,
+				30883F0E250FB89F00DB0F7A /* XLPageViewControllerConfig.h */,
+				30883F06250FB89F00DB0F7A /* XLPageViewControllerConfig.m */,
+				30883F07250FB89F00DB0F7A /* XLPageViewControllerUtil.h */,
+				30883F0D250FB89F00DB0F7A /* XLPageViewControllerUtil.m */,
+			);
+			path = XLPageViewController;
+			sourceTree = "<group>";
+		};
+		30883F18250FBF7B00DB0F7A /* KSPageMenu */ = {
+			isa = PBXGroup;
+			children = (
+				30E68EC62518E55A00F5A7F9 /* KSPageViewController.h */,
+				30E68EC72518E55A00F5A7F9 /* KSPageViewController.m */,
+				30E68EC32513B47100F5A7F9 /* KSPageSegmentedTitleView.h */,
+				30E68EC42513B47100F5A7F9 /* KSPageSegmentedTitleView.m */,
+				30883F1C250FC26300DB0F7A /* KSPageBasicTitleView.h */,
+				30883F1D250FC26300DB0F7A /* KSPageBasicTitleView.m */,
+				30883F1F25110E4300DB0F7A /* KSPageTitleCell.h */,
+				30883F2025110E4300DB0F7A /* KSPageTitleCell.m */,
+				30883F19250FBF9C00DB0F7A /* KSPageMenuConfig.h */,
+				30883F1A250FBF9C00DB0F7A /* KSPageMenuConfig.m */,
+				30883F222513A76A00DB0F7A /* KSPageMenuUtil.h */,
+				30883F232513A76A00DB0F7A /* KSPageMenuUtil.m */,
+			);
+			path = KSPageMenu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,8 +344,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				30883ED5250FB73B00DB0F7A /* ViewController.m in Sources */,
+				30883F0F250FB89F00DB0F7A /* XLPageViewController.m in Sources */,
+				30883F1B250FBF9C00DB0F7A /* KSPageMenuConfig.m in Sources */,
+				30883F1E250FC26300DB0F7A /* KSPageBasicTitleView.m in Sources */,
+				30E68EC52513B47100F5A7F9 /* KSPageSegmentedTitleView.m in Sources */,
+				30883F12250FB89F00DB0F7A /* XLPageViewControllerConfig.m in Sources */,
+				30883F10250FB89F00DB0F7A /* XLPageSegmentedTitleView.m in Sources */,
+				30883F17250FB98700DB0F7A /* KSHomeController.m in Sources */,
+				30883F2125110E4300DB0F7A /* KSPageTitleCell.m in Sources */,
 				30883EE0250FB73D00DB0F7A /* main.m in Sources */,
 				30883ED2250FB73B00DB0F7A /* AppDelegate.m in Sources */,
+				30E68EC82518E55A00F5A7F9 /* KSPageViewController.m in Sources */,
+				30883F14250FB89F00DB0F7A /* XLPageViewControllerUtil.m in Sources */,
+				30883F242513A76A00DB0F7A /* KSPageMenuUtil.m in Sources */,
+				30883F11250FB89F00DB0F7A /* XLPageBasicTitleView.m in Sources */,
+				30883F13250FB89F00DB0F7A /* XLPageTitleCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
